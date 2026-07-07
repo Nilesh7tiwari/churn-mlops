@@ -2,9 +2,9 @@
 __pycache__/
 *.pyc
 .env
-data/
+/data/
 *.pkl
 .ipynb_checkpoints/
 .claude/
-PROJECT_DESIGN.md/
+
 
